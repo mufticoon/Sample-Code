@@ -1,0 +1,26 @@
+{
+"name": "weishenmeniyaozhey3000-qisodn",
+"version": "1.0.0",
+"description": "We provide rich sample code to help you get started with and use the project more quickly.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mufticoon/Sample-Code.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mufticoon",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
